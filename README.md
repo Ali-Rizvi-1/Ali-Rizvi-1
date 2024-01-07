@@ -84,13 +84,12 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Ali-Rizvi-1&cc=22272e&width=500px&tc=BD07F7&ic=fff&bc=0000">
 </a>
 
+<br>
+
 <a href="https://github.com/Ali-Rizvi-1">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Rizvi-1&theme=dracula">
 </a>
 
-<a href="https://github.com/Ali-Rizvi-1">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Rizvi-1&theme=dracula">
-</a>
 
 </div>
 
