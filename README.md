@@ -80,17 +80,18 @@
 
 <div align="center">
 
-<a href="https://github.com/samiyaalizaidi">
+<a href="https://github.com/Ali-Rizvi-1">
     <img src="https://github-stats-alpha.vercel.app/api?username=Ali-Rizvi-1&cc=22272e&width=500px&tc=BD07F7&ic=fff&bc=0000">
 </a>
 
-<br/> 
-
-<a href="https://github.com/Ali-Rizvi-1/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Rizvi-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Rizvi-1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ali-Rizvi-1"/>
-
+<a href="https://github.com/Ali-Rizvi-1">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Rizvi-1&theme=dracula">
 </a>
+
+<a href="https://github.com/Ali-Rizvi-1">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Rizvi-1&theme=dracula">
+</a>
+
 </div>
 
 <br>
